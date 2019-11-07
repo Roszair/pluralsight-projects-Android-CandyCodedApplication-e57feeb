@@ -21,8 +21,6 @@ public class InfoActivity extends AppCompatActivity {
         Picasso.with(this).
                 load(uri).
                 into(candyStoreImageView);
-
-
     }
 
     // ***
